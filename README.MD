@@ -25,6 +25,8 @@ This repository consolidates my contributions between Apr 1, 2025 and Mar 31, 20
 
 - [Microsoft Foundry – Show and Tell](https://github.com/TallesValiatti/Community-Contributions-01-04-2025-31-03-2026/tree/main/MicrosoftFoundryShowAndTell)
 
+- [Blog Reviewer](https://github.com/TallesValiatti/Community-Contributions-01-04-2025-31-03-2026/tree/main/BlogReviewer)
+
 ## Links
 
 - [My LinkedIn](https://www.linkedin.com/in/tallesvaliatti/)
