@@ -5,10 +5,11 @@ This repository consolidates my contributions between Apr 1, 2025 and Mar 31, 20
 ## Areas of Contribution
 
 - .NET
-- DevOps
+- Microsoft Foundry
 - Azure
 - AI
 - Software development
+- GitHub Copilot
 - and others
 
 ## Contributions

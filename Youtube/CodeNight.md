@@ -1,10 +1,10 @@
 ### Details
-**Web site:** [https://www.youtube.com/@codenightbr](https://www.youtube.com/@codenightbr)    
+**Web site:** [https://www.youtube.com/@CodingNight](https://www.youtube.com/@CodingNight)    
 **Number of contributions:** 2  
 **First contribution date:** 30/05/2025    
 **Last contribution date:** 28/07/2025
 
-This is the CodeNight YouTube channel: https://www.youtube.com/@codenightbr. Here you can find the live sessions I joined on this channel, taking part in roundtables and open discussions about .NET, Azure, AI, open source, and the broader developer ecosystem. My mission is to share practical experiences, lessons learned, and ideas with the community, helping other professionals grow and connect. Each entry below includes the session link and a short description so you can revisit the conversations and explore the topics at your own pace.
+This is the CodeNight YouTube channel: https://www.youtube.com/@CodingNight. Here you can find the live sessions I joined on this channel, taking part in roundtables and open discussions about .NET, Azure, AI, open source, and the broader developer ecosystem. My mission is to share practical experiences, lessons learned, and ideas with the community, helping other professionals grow and connect. Each entry below includes the session link and a short description so you can revisit the conversations and explore the topics at your own pace.
 
 ### Contributions
 

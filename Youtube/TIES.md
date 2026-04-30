@@ -1,10 +1,10 @@
 ### Details
-**Web site:** [https://www.youtube.com/@TIESBrasil](https://www.youtube.com/@TIESBrasil)    
+**Web site:** [https://www.youtube.com/@ti-espiritosanto](https://www.youtube.com/@ti-espiritosanto)    
 **Number of contributions:** 1  
 **First contribution date:** 29/04/2025    
 **Last contribution date:** 29/04/2025
 
-This is the TIES Brasil YouTube channel: https://www.youtube.com/@TIESBrasil. Here you can find the live sessions I participated in on this channel, focused on Data, AI, and the Microsoft ecosystem. My mission is to share knowledge through practical demos, real-world comparisons, and open discussions, helping the community make better technical decisions. Each entry below includes the session link and a short description so you can revisit the content whenever you want.
+This is the TIES Brasil YouTube channel: https://www.youtube.com/@ti-espiritosanto. Here you can find the live sessions I participated in on this channel, focused on Data, AI, and the Microsoft ecosystem. My mission is to share knowledge through practical demos, real-world comparisons, and open discussions, helping the community make better technical decisions. Each entry below includes the session link and a short description so you can revisit the content whenever you want.
 
 ### Contributions
 
